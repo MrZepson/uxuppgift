@@ -28,7 +28,7 @@
 }
 
 .input {
-  width: 40rem;
+  width: 111%;
   height: 3rem;
   border-radius: 0.5rem;
   border: none;
@@ -51,7 +51,7 @@
 .textarea {
   resize: none;
   height: 10rem;
-  width: 40rem;
+  width: 111%;
   border: none;
   border-radius: 0.5rem;
   font-size: 1.25rem;
@@ -62,7 +62,7 @@
 
 .submitButton {
   height: 5rem;
-  width: 19rem;
+  width: 40%;
   margin: 2rem 0 2rem 0;
   border: 2px solid white;
   border-radius: 2.5rem;
@@ -76,7 +76,7 @@
 
 .backToHome {
   height: 5rem;
-  width: 19rem;
+  width: 40%;
   margin: 2rem 0 2rem 0;
   border: 2px solid white;
   border-radius: 2.5rem;

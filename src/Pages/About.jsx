@@ -32,9 +32,9 @@ export default function About() {
         </div>
       </div>
       <div className={styles.videosWrapper}>
-        <video src={bloodbath} controls height="259.2" width="460.8"></video>
-        <video src={master} controls height="259.2" width="460.8"></video>
-        <video src={cliffs} controls height="259.2" width="460.8"></video>
+        <video src={bloodbath} controls className={styles.video}></video>
+        <video src={master} controls className={styles.video}></video>
+        <video src={cliffs} controls className={styles.video}></video>
       </div>
     </section>
   );
